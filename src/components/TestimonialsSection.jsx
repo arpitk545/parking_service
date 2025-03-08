@@ -13,7 +13,7 @@ function TestimonialsSection() {
       author: "Alex P.",
       role: "Happy Customer",
       rating: 5,
-      image: "/placeholder.svg?height=100&width=100",
+      image: "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fq%3D80%26w%3D3560%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1080&q=75",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ function TestimonialsSection() {
       author: "Sarah M.",
       role: "Regular User",
       rating: 5,
-      image: "/placeholder.svg?height=100&width=100",
+      image: "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1623582854588-d60de57fa33f%3Fq%3D80%26w%3D3540%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1080&q=75",
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ function TestimonialsSection() {
       author: "Michael K.",
       role: "Business Traveler",
       rating: 4,
-      image: "/placeholder.svg?height=100&width=100",
+      image: "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fq%3D80%26w%3D3540%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1080&q=75",
     },
   ]
 
