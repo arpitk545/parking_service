@@ -43,7 +43,7 @@ function Navbar({ isDarkMode, toggleDarkMode }) {
           <div className="flex items-center space-x-2">
             <IconCar className={`text-[#11C675] transition-all duration-300 ${scrolled ? "h-6 w-6" : "h-8 w-8"}`} />
             <span className={`font-bold transition-all duration-300 gradient-text ${scrolled ? "text-lg" : "text-xl"}`}>
-              ParkEase
+              Parking
             </span>
           </div>
 
