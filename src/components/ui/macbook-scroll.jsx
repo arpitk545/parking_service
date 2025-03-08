@@ -29,7 +29,7 @@ export const MacbookScroll = ({ title, src, showGradient, children }) => {
           <div className="relative flex flex-col items-center">
             <div className="w-[300px] h-[172px] md:w-[600px] md:h-[342px] rounded-t-lg bg-gray-200 dark:bg-gray-800 overflow-hidden flex items-center justify-center">
               <img
-                src={src || "/placeholder.svg"}
+                src="https://ui.aceternity.com/_next/image?url=%2Flinear.webp&w=1920&q=75"
                 alt="Macbook screen content"
                 className="w-full h-full object-cover"
               />
