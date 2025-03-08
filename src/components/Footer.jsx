@@ -9,7 +9,7 @@ function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <IconCar className="h-6 w-6 text-[#11C675]" />
-              <span className="text-lg font-bold gradient-text">ParkEase</span>
+              <span className="text-lg font-bold gradient-text">Parking</span>
             </div>
             <p className="text-sm text-gray-600 dark:text-gray-400">
               The smart way to park your vehicle with professional drivers.
@@ -27,7 +27,7 @@ function Footer() {
               <FooterLink href="#">Parking Services</FooterLink>
               <FooterLink href="#">Valet Parking</FooterLink>
               <FooterLink href="#">Long-term Parking</FooterLink>
-              <FooterLink href="#">Airport Parking</FooterLink>
+              
             </ul>
           </div>
 
