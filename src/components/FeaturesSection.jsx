@@ -42,11 +42,11 @@ function FeaturesSection() {
       className="bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800 py-16 md:py-24"
     >
       <div className="container mx-auto px-4 md:px-6">
-        <h2 className="mb-12 text-center text-3xl font-bold gradient-text md:text-4xl">Key Features</h2>
+        <h2 className="mb-5 text-center text-3xl font-bold gradient-text md:text-4xl">Key Features</h2>
 
         <div className="w-full max-w-6xl mx-auto">
           <MacbookScroll
-            title={<span className="text-2xl font-semibold text-center gradient-text">ParkEase App Features</span>}
+            title={<span className="text-2xl font-semibold text-center gradient-text">Parking App Features</span>}
             src="/placeholder.svg?height=1080&width=1920"
             showGradient={true}
           >
